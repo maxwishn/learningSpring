@@ -1,5 +1,8 @@
 package com.example.demo.userService;
 
-public interface UserService {
+import com.example.demo.model.User;
 
+public interface UserService {
+    User add(User user);
+    Iterable<User> getAll();
 }

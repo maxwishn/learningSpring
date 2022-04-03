@@ -10,7 +10,6 @@ import javax.transaction.Transactional;
 
 @Repository
 @Transactional
-
 public interface TaskRepository extends PagingAndSortingRepository<Task, Long> {
     @Modifying
     @Query ("UPDATE Task t SET t.done = TRUE WHERE t.id =:id")
