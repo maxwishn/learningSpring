@@ -3,7 +3,9 @@ package com.example.demo.model;
 import lombok.Data;
 
 import javax.persistence.*;
-
+/**
+ * Entity class for user
+ */
 @Table(name = "users", schema = "public")
 @Data
 @Entity
