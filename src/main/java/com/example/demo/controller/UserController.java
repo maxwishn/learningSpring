@@ -20,4 +20,9 @@ public class UserController {
     public Iterable<User> getAll() {
         return userService.getAll();
     }
+
+    @GetMapping("/users/me")
+    public User getCurrentUser() {
+        return userService.getCurrentUser();
+    }
 }
