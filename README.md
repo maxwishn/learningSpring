@@ -4,9 +4,12 @@
 
 # Bookcase (Книжный шкаф)
 
-Основная функция портала – предоставление площадки для покупки и продажи книг.
-
 The main function of the portal is to provide a platform for buying and selling books.
+
+## Install
+
+1. Сlone the project: `git clone https://github.com/Innlock/learningSpring.git`
+2. Run `gradle run` in project root
 
 ## Project dependencies
 
@@ -19,9 +22,6 @@ The main function of the portal is to provide a platform for buying and selling 
 * [PostgreSQL Driver](https://jdbc.postgresql.org/) - A JDBC and R2DBC driver that allows Java programs to connect to a PostgreSQL database using standard, database independent Java code.
 * [Validation](https://hibernate.org/) - Bean Validation with Hibernate validator.
 * [Lombok](https://projectlombok.org/) - Java annotation library which helps to reduce boilerplate code.
-
-## Install
-
 
 ## Authors
 
