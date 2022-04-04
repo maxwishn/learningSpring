@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Innlock/learningSpring/blob/main/src/pics/Books.jpg">
+  <img src="https://github.com/Innlock/learningSpring/blob/main/src/pics/Books.PNG" width="50%">
 </p>
 
 # Bookcase (Книжный шкаф)
