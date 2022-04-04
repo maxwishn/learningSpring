@@ -8,8 +8,21 @@ The main function of the portal is to provide a platform for buying and selling 
 
 ## Install
 
-1. Сlone the project: `git clone https://github.com/Innlock/learningSpring.git`
-2. Run `gradle run` in project root
+For windows (using cmd):
+1. Сlone the project:
+```shell
+  git clone https://github.com/Innlock/learningSpring.git
+```
+2. Go to the correct folder:
+```
+  cd learningSpring
+```
+3. Run this command in project root:
+```
+  gradlew bootRun
+```
+
+To stop press `Ctrl+C`
 
 ## Project dependencies
 
