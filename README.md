@@ -25,7 +25,7 @@ The main function of the portal is to provide a platform for buying and selling 
 
 To stop press `Ctrl+C`
 
-## Project dependencies
+## Used libraries
 
 * [Gradle](https://gradle.org/) - Dependency Management
 * [Spring](https://spring.io/) - Open source universal framework for the Java platform.
@@ -42,10 +42,6 @@ To stop press `Ctrl+C`
 * **Anna Chistozvonova** - *Work with the server*
 * **Maxim Vishnyakov** - *Frontend*
 * **Artyom Popov** - *Work with databases*
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details (in progress)
 
 ## Acknowledgments
 
