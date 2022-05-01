@@ -12,3 +12,9 @@ services:
     restart: always
     volumes:
     - ./pgdb:/docker-entrypoint-initdb.d:ro
+
+#  serv:
+#    build: .
+#    ports:
+#      - '8081:8081'
+#    restart: always
