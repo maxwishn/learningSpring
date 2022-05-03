@@ -25,6 +25,11 @@ The main function of the portal is to provide a platform for buying and selling 
 
 To stop press `Ctrl+C`
 
+3. Alternative with docker containers:
+```bash
+  docker-compose up --build
+```
+
 ## Used libraries
 
 * [Gradle](https://gradle.org/) - Dependency Management
